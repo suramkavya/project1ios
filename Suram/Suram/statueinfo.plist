@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>The Statue of Liberty</string>
+		<key>location</key>
+		<string>NewYork City, NY</string>
+		<key>description</key>
+		<string>&quot;The Statue of Liberty Enlightening the World&quot; was a gift of friendship from the people of France to the United States and is recognized as a universal symbol of freedom and democracy. The Statue of Liberty was dedicated on October 28, 1886.  It was designated as a National Monument in 1924.  Employees of the National Park Service have been caring for the colossal copper statue since 1933.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Our Ladies of the Rockies</string>
+		<key>location</key>
+		<string>Butte, MT</string>
+		<key>description</key>
+		<string>Our Lady of the Rockies is a 90-foot (27 m) statue, dedicated to the Blessed Virgin Mary, that sits atop the Continental Divide overlooking Butte, Montana. It is the second tallest statue in the United States after The Statue of Liberty. The statue was first imagined by local resident Bob O&apos;Bill. In 1979, his wife was seriously ill with cancer. He promised the Blessed Virgin Mary that he would make a 5 foot statue of her in his yard if his wife recovered.</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>John R Buchtel</string>
+		<key>location</key>
+		<string>Akron, OH </string>
+		<key>description</key>
+		<string>John R. Buchtel was an American businessman and philanthropist, most famous for being the founding figure of Buchtel College, the predecessor of the University of Akron. John R. Buchtel stands wearing 19th century garb including a vest with an open, knee-length coat, with his proper right hand to his chest. He has a beard, and his proper left hand rests on a stack of what may be books. The sculpture is mounted upon an inscribed base with stepped sides.</string>
+	</dict>
+</array>
+</plist>
